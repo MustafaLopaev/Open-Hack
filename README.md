@@ -20,12 +20,13 @@ Technologies that can make a coherent summary take into account variables such a
 length, writing style and syntax. An example of the use of summarization technology \
 is search engines such as Google. Document summarization is another."""
 
- Çıktı //Özeti ‘tr’
+ # Çıktı
+ //Özeti ‘tr’
 	Otomatik özetleme, orijinal belgenin en önemli noktalarını tutan bir özetini oluşturmak için bir bilgisayar programı ile bir metin belgesi azaltılması işlemidir.
  //Özeti ‘en’
 	Automatic summarization is the process of reducing a text document with a                 computer program in order to create a summary that retains the most important points                 of the original document.
 
- Kaynaklar:
+# Kaynaklar:
 	TextRank algorifması:  https://towardsdatascience.com/textrank-for-keyword-extraction-by-python-c0bae21bcec0 
 	Mihalcea, R., Tarau, P.: "Textrank: Bringing order into texts". In: Lin, D., Wu, D. (eds.) Proceedings of EMNLP 2004. pp. 404–411. Association for Computational Linguistics, Barcelona, Spain. July 2004.
 
