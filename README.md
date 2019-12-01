@@ -21,11 +21,9 @@ length, writing style and syntax. An example of the use of summarization technol
 is search engines such as Google. Document summarization is another."""
 
  # Çıktı
- # Özetler
- # 	Türkçesi
-	Otomatik özeteme, orijinal belgenin en önemli noktalarını tutan bir özetini oluşturmak için bir bilgisayar programı ile bir metin belgesi azaltılması işlemidir.
-# 	 İnglizcesi
-	Automatic summarization is the process of reducing a text document with a                 computer program in order to create a summary that retains the most important points                 of the original document.
+
+	(Türkçe Özeti) Otomatik özeteme, orijinal belgenin en önemli noktalarını tutan bir özetini oluşturmak için bir bilgisayar programı ile bir metin belgesi azaltılması işlemidir. \n
+	(İnglizce Özeti)Automatic summarization is the process of reducing a text document with a computer program in order to create a summary that retains the most important points of the original document.
 
 # Kaynaklar:
 	TextRank algorifması:  https://towardsdatascience.com/textrank-for-keyword-extraction-by-python-c0bae21bcec0 
