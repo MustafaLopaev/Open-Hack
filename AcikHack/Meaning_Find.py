@@ -13,7 +13,7 @@ def Meanings(newArr):
             page = wikipedia.page(word)
             meaning = page.content
             parsedMeaning = meaning.split("\n")
-            meaningList.append(parsedMeaning)
+            meaningList.append(parsedMeaning[0])
         except:
             print('\n')
             print(word)
