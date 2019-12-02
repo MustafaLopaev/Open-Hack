@@ -2,13 +2,14 @@
 --------
 # BuNe?
 	Türkçe ve İnglizce makale, haberler, dergilerin vb. özetini türkçe çıkaran ve  anahtar sözcüklerin anlamı ile bulur.
+	We created a system that summarizes any text into English and Turkish.
   
-# Yapılanlar:
+# Yapılanlar/Features:
 -	Türkçe metinlerin özetlerini bulabilir.
 -	İngilizce metinlerin Türkçe özetini bulabilir.
 -	Metinde geçen kelimelerden anahtar sözcükleri bulabilir.
 -	Metindeki kelimeleri translate edebilir.
-# Örnek
+# Örnek/Example
 --------
  Elimizdeki İnglizce text verisini giriyoruz
 
@@ -20,12 +21,12 @@ Technologies that can make a coherent summary take into account variables such a
 length, writing style and syntax. An example of the use of summarization technology \
 is search engines such as Google. Document summarization is another."""
 
- # Çıktı
+ # Çıktı/Output
 
 	(Türkçe Özeti) Otomatik özeteme, orijinal belgenin en önemli noktalarını tutan bir özetini oluşturmak için bir bilgisayar programı ile bir metin belgesi azaltılması işlemidir. 
 	(İnglizce Özeti)Automatic summarization is the process of reducing a text document with a computer program in order to create a summary that retains the most important points of the original document.
 
-# KelimeAnlamları
+# KelimeAnlamları/mainwordsfromtext
 	miktar->Miktar endeks sayıları tek bir mal veya hizmet veya belirli bir grup veya hizmet için miktarların zaman içinde değişmelerini incelemek amacıyla hesaplanan her bir zaman birimi (genel olarak her yıl) için tek bir sayı hesaplanmasını kapsayan bir zaman serisi özetleme yöntemidir
 	değişkenler-> bağımlı ve bağımsız değişkenler terimleri bilimin standart terminolojisi içinde matematik ve istatistik bilim alanlarında birbirine benzer fakat fark edilir gibi değişik anlamlarda kullanılır. 
 	veri-> (İng. ve Lat. datum; ç. data), ham (işlenmemiş) gerçek enformasyon parçacığına verilen addır. Veriler ölçüm, sayım, deney, gözlem ya da araştırma yolu ile elde edilmektedir. 
